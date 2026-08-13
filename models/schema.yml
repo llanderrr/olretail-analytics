@@ -1,0 +1,25 @@
+version: 2
+
+models:
+  - name: dim_customers
+    columns:
+      - name: customer_key
+        data_tests:
+          - unique
+          - not_null
+      - name: customer_id
+        data_tests:
+          - unique
+          - not_null
+
+  - name: fct_sales
+    columns:
+      - name: sales_item_key
+        data_tests:
+          - unique
+          - not_null
+      - name: customer_key
+        data_tests:
+          - relationships:
+              to: ref('dim_customers')
+              field: customer_key
