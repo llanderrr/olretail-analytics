@@ -75,10 +75,10 @@ The final models (DIM_CUSTOMERS and FCT_SALES) are optimized for Business Intell
 
 
 ## Dashboard Preview
-![Power BI Dashboard](assets/images/Power_BI_Integration.png)
+![Power BI Dashboard](https://raw.githubusercontent.com/llanderrr/olretail-analytics/main/assets/images/Power_BI_Integration.png)
 
 ## Data Warehouse Schema
-![Snowflake Schema](assets/images/Snowflake_Schema_Views.png)
+![Snowflake Schema](https://raw.githubusercontent.com/llanderrr/olretail-analytics/main/assets/images/Snowflake_Schema_Views.png)
 
 ## Snowflake Lineage Graph
-![Lineage Graph](assets/images/Lineage_Graph.png)
+![Lineage Graph](https://raw.githubusercontent.com/llanderrr/olretail-analytics/main/assets/images/Lineage_Graph.png)
