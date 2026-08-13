@@ -75,10 +75,10 @@ The final models (DIM_CUSTOMERS and FCT_SALES) are optimized for Business Intell
 
 
 ## Dashboard Preview
-![Power BI Dashboard](assets/Power_BI_Integration.png)
+![Power BI Dashboard](assets/images/Power_BI_Integration.png)
 
 ## Data Warehouse Schema
-![Snowflake Schema](assets/Snowflake_Schema_Views.png)
+![Snowflake Schema](assets/images/Snowflake_Schema_Views.png)
 
 ## Snowflake Lineage Graph
-![Lineage Graph](assets/Lineage_Graph.png)
+![Lineage Graph](assets/images/Lineage_Graph.png)
